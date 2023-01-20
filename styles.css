@@ -30,8 +30,9 @@ width: 100%;}
     align-self: flex-end;
     gap: 5px;
     text-decoration: none;
-    text-decoration-color: none;    ;
-    list-style-type: none;}        
+    text-decoration-color: none;
+    list-style-type: none;}     
+
 li a {
     font-size: 18px;
     color:#e5e7eb;
@@ -42,7 +43,7 @@ flex-direction: row;
 justify-content: space-between;
 align-items: center;
 width: 90%;
-gap: 10px;
+gap: 8px;
 padding: 5%;
 }
         .maintext {flex: 1;
